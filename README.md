@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🔗 Contact Me
-- ✉️ [Email](mailto:mustafizurrahaman362@gmail.com)  
+-  ✉️ [Email me on Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=mustafizurrahaman362@gmail.com)
 - 📂 Portfolio (coming soon)  
 - 📦 Featured Project: [iBlog](https://github.com/Mustafiz-16/iBlog) *(coming soon)*  
 
