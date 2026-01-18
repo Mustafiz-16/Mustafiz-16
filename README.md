@@ -37,12 +37,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Eraser.io](https://img.shields.io/badge/Eraser.io-F7DF1E?style=for-the-badge&logo=read-the-docs&logoColor=black)
 
 ---
 
 ## 🌱 Currently Learning
-![Basic System Design](https://img.shields.io/badge/Basic_System_Design-00BFFF?style=for-the-badge&logo=erdos&logoColor=white)  
-![Eraser.io](https://img.shields.io/badge/Eraser.io-Learning-F7DF1E?style=for-the-badge&logo=read-the-docs&logoColor=black)
+![Basic System Design](https://img.shields.io/badge/Basic_System_Design-00BFFF?style=for-the-badge&logo=erdos&logoColor=white)
 
 ---
 
