@@ -1,7 +1,11 @@
 # Hi 👋, I'm Mustafizur Rahaman Chowdhury
 
 <!-- Typing SVG effect -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=61DAFB&center=true&vCenter=true&width=650&lines=Web+Developer;Frontend+Enthusiast;JavaScript+&+React+Developer;Node.js+Backend+Learner;Always+Eager+to+Learn)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=61DAFB&center=true&vCenter=true&width=650&lines=Web+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=61DAFB&center=true&vCenter=true&width=650&lines=Frontend+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=61DAFB&center=true&vCenter=true&width=650&lines=JavaScript+&+React+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=61DAFB&center=true&vCenter=true&width=650&lines=Node.js+Backend+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=61DAFB&center=true&vCenter=true&width=650&lines=Always+Eager+to+Learn)
 
 
 ---
