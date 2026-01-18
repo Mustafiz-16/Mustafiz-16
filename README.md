@@ -1,26 +1,5 @@
 # Hi 👋, I'm Mustafizur Rahaman Chowdhury
-
-### A passionate frontend developer from India
-🌱 Learning **Web Development**, **JavaScript**, and **Backend Development**  
-🚀 Building projects like **iBlog** and **Property Management System**  
-📌 Always eager to learn new technologies and improve my skills
-
 ---
-
-### 🔭 I’m currently working on
-- **Real-Estate-Management** – [GitHub Link](https://github.com/Mustafiz-16/real-state-management)
-
-### 👯 I’m looking to collaborate on
-- Beginner-friendly web projects – [Project Link](#)
-
-### 🤝 I’m looking for help with
-- Advanced backend concepts – [Resources / Projects](#)
-
-### 🌱 I’m currently learning
-- React, Node.js, Express, MongoDB, Tailwind CSS, Socket.io
-
-### 📫 How to reach me
-- Email: [mustafizurrahaman362@gmail.com](mailto:mustafizurrahaman362@gmail.com)
 
 ### ⚡ Fun fact
 - ⚡I get excited every time a project finally works! 🎉
@@ -33,7 +12,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 
 ---
 
@@ -51,11 +29,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
 ---
-
-
-
 ---
 
 ### Tools & Platforms
@@ -68,21 +42,9 @@
 
 ---
 
-## 🌐 Socials
-[![GitHub](https://img.shields.io/badge/GitHub-Mustafiz-16-181717?style=for-the-badge&logo=github)](https://github.com/Mustafiz-16)
-
----
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mustafiz-16&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafiz-16&layout=compact&theme=radical)
 
 ---
 
-## 🏆 GitHub Trophies
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Mustafiz-16&theme=radical&no-frame=true)
-
----
-
-## Visitors
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Mustafiz-16.Mustafiz-16)
