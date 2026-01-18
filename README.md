@@ -1,7 +1,8 @@
 # Hi 👋, I'm Mustafizur Rahaman Chowdhury
 
 <!-- Typing SVG effect -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=61DAFB&center=true&vCenter=true&width=600&lines=Web+Developer;JavaScript+Enthusiast;React+&+Node.js;Learning+every+day)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=61DAFB&center=true&vCenter=true&width=650&lines=Web+Developer;Frontend+Enthusiast;JavaScript+&+React+Developer;Node.js+Backend+Learner;Always+Eager+to+Learn)
+
 
 ---
 
